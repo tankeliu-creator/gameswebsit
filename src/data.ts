@@ -17,11 +17,11 @@ export interface Category {
 }
 
 export const categories = [
-  { id: 'action', name: 'Action', icon: 'https://imgs.crazygames.com/icon/Action.svg' },
-  { id: 'puzzle', name: 'Puzzle', icon: 'https://imgs.crazygames.com/icon/Puzzle.svg' },
-  { id: 'racing', name: 'Racing', icon: 'https://imgs.crazygames.com/icon/Action.svg' },
-  { id: 'sports', name: 'Sports', icon: 'https://imgs.crazygames.com/icon/Sports.svg' },
-  { id: 'adventure', name: 'Adventure', icon: 'https://imgs.crazygames.com/icon/Adventure.svg' }
+  { id: 'action', name: 'Action' },
+  { id: 'puzzle', name: 'Puzzle'  },
+  { id: 'racing', name: 'Racing'  },
+  { id: 'sports', name: 'Sports' },
+  { id: 'adventure', name: 'Adventure'}
 ]
 
 export const games = [
